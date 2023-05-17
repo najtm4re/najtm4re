@@ -1,6 +1,6 @@
-<h1>Hello there and welcome to my page🤗</h1>
+<h1>Hello there👋🏻</h1>
 
-<p>I'm Ivan, a novice specialist in the world of Data Science from Saint-Petersburg, Russia, currently living in Belgrade, Serbia</p>
+<p> Welcome to my page :) </br>I'm Ivan, a novice specialist in the world of Data Science from Saint-Petersburg, Russia, currently living in Belgrade, Serbia</p>
 <h3>Things I code with</h3>
 <p>
 <div>
@@ -13,3 +13,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 </p>
+
+<h3>How to reach me</h3>
+<div id="badges">
+  <a href="https://www.linkedin.com/feed/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/najtm4re">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
