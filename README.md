@@ -1,6 +1,5 @@
 <h1>Hello there👋🏻</h1>
 
-<p> Welcome to my page :) </br>I'm Ivan, a novice specialist in the world of Data Science from Saint-Petersburg, Russia, currently living in Belgrade, Serbia</p>
 <h3>Things I code with</h3>
 <p>
 <div>
